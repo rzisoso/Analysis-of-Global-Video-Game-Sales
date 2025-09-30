@@ -38,7 +38,7 @@ The process includes data loading, cleaning, exploratory data analysis (EDA), an
 
 Below is a comparison of the Top 10 platforms in North America vs. Europe. This chart clearly illustrates the different market sizes and brand preferences.
 
-*(We will add the chart image here in the next step)*
+![North America vs. Europe Sales Comparison]na_vs_eu_sales.png
 
 ---
 
