@@ -38,7 +38,7 @@ The process includes data loading, cleaning, exploratory data analysis (EDA), an
 
 Below is a comparison of the Top 10 platforms in North America vs. Europe. This chart clearly illustrates the different market sizes and brand preferences.
 
-![North America vs. Europe Sales Comparison]https://github.com/rzisoso/Analysis-of-Global-Video-Game-Sales/blob/e3068e1932eaaedd9f7947b28be6f3c43b396419/na_vs_eu_sales.png
+![North America vs. Europe Sales Comparison](https://github.com/rzisoso/Analysis-of-Global-Video-Game-Sales/blob/e3068e1932eaaedd9f7947b28be6f3c43b396419/na_vs_eu_sales.png)
 
 ---
 
