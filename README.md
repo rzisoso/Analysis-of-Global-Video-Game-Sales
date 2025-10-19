@@ -37,6 +37,9 @@ This project is a comprehensive analysis of the global video game market, based 
 Below is a comparison of the Top 10 platforms in North America vs. Europe. This chart clearly illustrates the different market sizes and brand preferences.
 
 ![North America vs. Europe Sales Comparison](https://github.com/rzisoso/Analysis-of-Global-Video-Game-Sales/blob/e3068e1932eaaedd9f7947b28be6f3c43b396419/na_vs_eu_sales.png)
+
+Below is a chart tracking the global video game industry's market lifecycle from 1980 to 2016. It clearly pinpoints the explosive "golden age" of growth (1995-2008) and the subsequent market correction after its peak.
+
 ![Trend of global video game sales over the year](https://github.com/rzisoso/Analysis-of-Global-Video-Game-Sales/blob/e3068e1932eaaedd9f7947b28be6f3c43b396419/TrendOfGlobalVideoGameSalesOverTheYear.png)
 
 ---
