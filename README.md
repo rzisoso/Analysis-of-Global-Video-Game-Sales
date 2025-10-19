@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This project is a comprehensive case study analyzing a dataset of over 16,500 video games with sales data. The goal is to practice and demonstrate end-to-end data analysis skills using Python and its popular data science libraries. 
-
-The process includes data loading, cleaning, exploratory data analysis (EDA), and visualization to answer key business questions about the video game market.
+This project is a comprehensive analysis of the global video game market, based on a dataset of over 16,500 titles. It serves as a direct demonstration of an end-to-end data analysis workflow—from data cleaning and exploratory analysis (EDA) to visualization—that delivers clear and actionable business intelligence.
 
 ---
 
